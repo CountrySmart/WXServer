@@ -64,7 +64,7 @@ class Goods(models.Model):
     producer_id = models.CharField(max_length=1024)
     # 原价
     # 现价
-    # 是否售卖
+    # 售卖状态
 
 
 class Order(models.Model):
