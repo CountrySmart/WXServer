@@ -1,2 +1,5 @@
 #!/usr/bin/env bash
-python3 manage.py runserver_plus --cert server.crt 8080
+# 开启https服务
+# python3 manage.py runserver_plus --cert server.crt 8080
+
+python3 manage.py runserver 127.0.0.1:8081
