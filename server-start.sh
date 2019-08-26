@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-python manage.py runserver_plus --cert server.crt 8080
+python3 manage.py runserver_plus --cert server.crt 8080
