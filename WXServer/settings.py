@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '152.136.107.62',
+    'feizai.xyz',
 ]
 
 
