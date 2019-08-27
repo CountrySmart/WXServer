@@ -25,10 +25,7 @@ SECRET_KEY = 'bn^3#cnerd=!iual%h1m+)^k4od%_9^ux!y98%6t!sv#yss=*_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [
-    '152.136.107.62',
-    'feizai.xyz',
-]
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
