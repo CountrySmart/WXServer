@@ -77,3 +77,6 @@ class Order(models.Model):
     # 备注
 
 
+class Customer(models.Model):
+    """顾客信息"""
+    pass
