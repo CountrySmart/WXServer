@@ -14,14 +14,6 @@ class User(models.Model):
     # 账户余额
     # 备注
 
-    def __str__(self):
-        return self.name
-
-    class Meta:
-        ordering = ["c_time"]
-        verbose_name = "用户"
-        verbose_name_plural = "用户"
-
 
 class Brand(models.Model):
     """品牌信息"""
@@ -64,7 +56,9 @@ class Goods(models.Model):
     producer_id = models.CharField(max_length=1024)
     # 原价
     # 现价
+    # 内含货物
     # 售卖状态
+    # 是否套餐
 
 
 class Order(models.Model):
