@@ -5,4 +5,4 @@
 
 # uwsgi3
 git pull origin master
-uwsgi3 --ini uwsgi.ini
+uwsgi3 --reload uwsgi.pid
