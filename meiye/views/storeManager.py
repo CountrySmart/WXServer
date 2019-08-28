@@ -10,4 +10,4 @@ import configparser
 
 
 def index(request):
-    return HttpResponse("店主界面")
+    return render(request, "storeManager-index.html")

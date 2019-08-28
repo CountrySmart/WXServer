@@ -10,4 +10,4 @@ import configparser
 
 
 def index(request):
-    return HttpResponse("店员界面")
+    return render(request, "staff-index.html")
