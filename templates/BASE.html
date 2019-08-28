@@ -1,12 +1,15 @@
 {% load staticfiles %}
-<html lang="zh">
+<html lang="en">
 
 <head>
-    <link href="/static/css/my.css" rel="stylesheet">
+        <link href="/static/css/my.css" rel="stylesheet">
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>肥仔掌柜</title>
+
+    <title>TestFrameX</title>
+
     <!-- ================= Favicon ================== -->
     <!-- Standard -->
     <link rel="shortcut icon" href="http://placehold.it/64.png/000/fff">
@@ -18,6 +21,7 @@
     <link rel="apple-touch-icon" sizes="72x72" href="http://placehold.it/72.png/000/fff">
     <!-- Standard iPhone Touch Icon-->
     <link rel="apple-touch-icon" sizes="57x57" href="http://placehold.it/57.png/000/fff">
+
     <!-- Styles -->
     <link href="/static/css/lib/font-awesome.min.css" rel="stylesheet">
     <link href="/static/css/lib/themify-icons.css" rel="stylesheet">
@@ -29,34 +33,82 @@
     <link href="/static/css/lib/bootstrap.min.css" rel="stylesheet">
     <link href="/static/css/lib/simdahs.css" rel="stylesheet">
     <link href="/static/css/style.css" rel="stylesheet">
+
+
 </head>
+
 <body>
 <div class="sidebar sidebar-hide-to-small sidebar-shrink sidebar-gestures">
     <div class="nano">
         <div class="nano-content">
             <ul>
+                <li class="label">自动测试平台</li>
                 <br>
-                <br>
+                <li class="label">ASR</li>
                 <li><a href="/"><i class="ti-home"></i> 主页 </a></li>
-                <li><a class="sidebar-sub-toggle"><i class="ti-layout"></i> 使用入口 <span
+
+
+                <li><a class="sidebar-sub-toggle"><i class="ti-layout"></i> 预设方案 <span
                         class="sidebar-collapse-icon ti-angle-down"></span></a>
                     <ul>
-                        <li><a href="/customer/">我是顾客</a></li>
-                        <li><a href="/staff/">我是雇员</a></li>
-                        <li><a href="/storeManager/">我是店长</a></li>
+                        <li><a href="/asrplan/online/">线上</a></li>
+                        <li><a href="/asrplan/tv/">影视</a></li>
+                        <li><a href="/asrplan/kid/">儿童</a></li>
+                        <li><a href="/asrplan/common/">通用</a></li>
                     </ul>
                 </li>
+                <li><a class="sidebar-sub-toggle"><i class="ti-panel"></i> 其他工具 <span
+                        class="sidebar-collapse-icon ti-angle-down"></span></a>
+                    <ul>
+                        <li><a href="/asr-tools/asr-compare/">结果对比</a></li>
+                        <li><a href="/asr-tools/asr-online-debug/">线上debug</a></li>
+                        <li><a href="/asr-tools/lm_grade/">唤醒词打分</a></li>
+                        <li><a href="/asr-tools/onetest/" style="color: red">单条调试</a></li>
+                        <li><a href="/asr-tools/asr-regression/" style="color: red">LIBS回归</a></li>
+                    </ul>
+                </li>
+
+
+                <li><a class="sidebar-sub-toggle"><i class="ti-layout-grid4-alt"></i> 资源管理 <span
+                        class="sidebar-collapse-icon ti-angle-down"></span></a>
+                    <ul>
+                        <li><a href="/resouse/git/">git仓库</a></li>
+                        <li><a href="/resouse/testset/">测试集</a></li>
+                    </ul>
+                </li>
+                <li><a href="/settings/"><i class="ti-settings"></i> 设置 </a></li>
+                <br>
+{#                <li class="label">前端</li>#}
+{#                <li><a href="/signal/"><i class="ti-home"></i> 主页 </a></li>#}
+{##}
+{#                <li><a class="sidebar-sub-toggle"><i class="ti-layout"></i> 测试方案 <span#}
+{#                        class="sidebar-collapse-icon ti-angle-down"></span></a>#}
+{#                    <ul>#}
+{#                        <li><a href="/signalplan/ASR/">ASR</a></li>#}
+{#                        <li><a href="/signalplan/hx/">激活</a></li>#}
+{#                    </ul>#}
+{#                </li>#}
+{#                <li><a class="sidebar-sub-toggle"><i class="ti-layout-grid4-alt"></i> 资源管理 <span#}
+{#                        class="sidebar-collapse-icon ti-angle-down"></span></a>#}
+{#                    <ul>#}
+{#                        <li><a href="/resouse/signal-algorithm/">算法</a></li>#}
+{#                        <li><a href="/resouse/signal-data/">数据</a></li>#}
+{#                    </ul>#}
+{#                </li>#}
+{#                <li><a href="/settings/"><i class="ti-settings"></i> 设置 </a></li>#}
+{#                <br>#}
+                <li class="label">其他</li>
+                <li><a href="/store-index/"><i class="ti-home"></i> 闲置交易 </a></li>
             </ul>
         </div>
     </div>
 </div><!-- /# sidebar -->
-
 <div class="header">
     <div class="pull-left">
         <div class="logo" id="sideLogo">
             <a href="/">
-                <img class="full-logo" src="/static/images/logo-big.png" alt="肥仔掌柜">
-                <img class="small-logo" src="/static/images/logo-small.png" alt="肥仔掌柜">
+                <img class="full-logo" src="/static/images/logo-big.png" alt="SimDahs">
+                <img class="small-logo" src="/static/images/logo-small.png" alt="SimDahs">
             </a>
         </div>
         <div class="hamburger sidebar-toggle">
@@ -64,6 +116,7 @@
         </div>
     </div>
 </div>
+
 <div class="content-wrap">
     <div class="main">
         <div class="container-fluid">
@@ -77,8 +130,19 @@
                         </div>
                     </div>
                 </div><!-- /# column -->
+                <div class="col-lg-4 p-0">
+                    <div class="page-header">
+                        <div class="page-title">
+                            <ol class="breadcrumb text-right">
+                                <li class="active">自动测试平台</li>
+                            </ol>
+                        </div>
+                    </div>
+                </div><!-- /# column -->
             </div>
+
             {% block content-wrap %}
+
             {% endblock %}
         </div><!-- /# container-fluid -->
     </div><!-- /# main -->
@@ -94,8 +158,11 @@
 <script src="/static/js/lib/chart-js/Chart.bundle.js"></script>
 <script src="/static/js/lib/chart-js/chartjs-init.js"></script>
 <!-- // Chart js -->
+
+
 <script src="/static/js/lib/sparklinechart/jquery.sparkline.min.js"></script><!-- scripit init-->
 <script src="/static/js/lib/sparklinechart/sparkline.init.js"></script><!-- scripit init-->
+
 <!--  Datamap -->
 <script src="/static/js/lib/datamap/d3.min.js"></script>
 <script src="/static/js/lib/datamap/topojson.js"></script>
