@@ -1,14 +1,14 @@
 {% load staticfiles %}
-<html lang="en">
+<html lang="zh">
 
 <head>
-        <link href="/static/css/my.css" rel="stylesheet">
+    <link href="/static/css/my.css" rel="stylesheet">
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>TestFrameX</title>
+    <title>肥仔掌柜</title>
 
     <!-- ================= Favicon ================== -->
     <!-- Standard -->
@@ -42,12 +42,7 @@
     <div class="nano">
         <div class="nano-content">
             <ul>
-                <li class="label">肥仔掌柜</li>
-                <br>
-                <li class="label">ASR</li>
                 <li><a href="/"><i class="ti-home"></i> 主页 </a></li>
-
-
                 <li><a class="sidebar-sub-toggle"><i class="ti-layout"></i> 预设方案 <span
                         class="sidebar-collapse-icon ti-angle-down"></span></a>
                     <ul>
@@ -94,68 +89,9 @@
             <span class="ti-menu"></span>
         </div>
     </div>
-
-    <div class="pull-right p-r-15">
-        <ul>
-            <li class="header-icon dib"><i class="ti-bell"></i>
-                <div class="drop-down">
-                    <div class="dropdown-content-heading">
-                        <span class="text-left">最近的操作</span>
-                    </div>
-                    <div class="dropdown-content-body">
-                        <ul>
-                            <li>
-                                <a href="#">
-                                    <img class="pull-left m-r-10 avatar-img" src="/static/images/avatar/3.jpg" alt=""/>
-                                    <div class="notification-content">
-                                        <small class="notification-timestamp pull-right">02:34 PM</small>
-                                        <div class="notification-heading">CountrySmart</div>
-                                        <div class="notification-text">创建了这个工程</div>
-                                    </div>
-                                </a>
-                            </li>
-                            <li class="text-center">
-                                <a href="#" class="more-link">See All</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </li>
-        </ul>
-    </div>
 </div>
 
 
-<div class="content-wrap">
-    <div class="main">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-lg-8 p-0">
-                    <div class="page-header">
-                        <div class="page-title">
-                            <h1>{% block pagename %}
-
-                            {% endblock %}</h1>
-                        </div>
-                    </div>
-                </div><!-- /# column -->
-                <div class="col-lg-4 p-0">
-                    <div class="page-header">
-                        <div class="page-title">
-                            <ol class="breadcrumb text-right">
-                                <li class="active">自动测试平台</li>
-                            </ol>
-                        </div>
-                    </div>
-                </div><!-- /# column -->
-            </div>
-
-            {% block content-wrap %}
-
-            {% endblock %}
-        </div><!-- /# container-fluid -->
-    </div><!-- /# main -->
-</div><!-- /# content wrap -->
 <script src="/static/js/BASE.js"></script>
 <script src="/static/js/lib/jquery.min.js"></script><!-- jquery vendor -->
 <script src="/static/js/lib/jquery.nanoscroller.min.js"></script><!-- nano scroller -->
