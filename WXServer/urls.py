@@ -15,6 +15,7 @@ Including another URLconf
 """
 # from django.contrib import admin
 from django.urls import path
+from Frame import views as frame
 from meiye.views import storeManager, staff, customer
 
 urlpatterns = [
@@ -28,8 +29,9 @@ urlpatterns = [
 
 
 
-
-
-
     path('customer/', customer.index),
+
+
+
+    path('', frame.index),
 ]
