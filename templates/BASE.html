@@ -64,7 +64,36 @@
         </div>
     </div>
 </div>
+<div class="content-wrap">
+    <div class="main">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-8 p-0">
+                    <div class="page-header">
+                        <div class="page-title">
+                            <h1>{% block pagename %}
 
+                            {% endblock %}</h1>
+                        </div>
+                    </div>
+                </div><!-- /# column -->
+                <div class="col-lg-4 p-0">
+                    <div class="page-header">
+                        <div class="page-title">
+                            <ol class="breadcrumb text-right">
+                                <li class="active">自动测试平台</li>
+                            </ol>
+                        </div>
+                    </div>
+                </div><!-- /# column -->
+            </div>
+
+            {% block content-wrap %}
+
+            {% endblock %}
+        </div><!-- /# container-fluid -->
+    </div><!-- /# main -->
+</div><!-- /# content wrap -->
 <script src="/static/js/BASE.js"></script>
 <script src="/static/js/lib/jquery.min.js"></script><!-- jquery vendor -->
 <script src="/static/js/lib/jquery.nanoscroller.min.js"></script><!-- nano scroller -->
