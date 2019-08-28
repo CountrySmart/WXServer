@@ -10,4 +10,4 @@ import configparser
 
 
 def index(request):
-    return render(request, "BASE.html")
+    return render(request, "index.html")
