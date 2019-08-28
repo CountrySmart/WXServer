@@ -21,15 +21,16 @@ from meiye.views import storeManager, staff, customer
 urlpatterns = [
     # path('admin/', admin.site.urls),
     path('storeManager/', storeManager.index),
-
-
-
+    path('storeManager/Staff/', storeManager.staff),
+    path('storeManager/VIP/', storeManager.VIP),
+    path('storeManager/goods/', storeManager.goods),
 
     path('staff/', staff.index),
 
 
 
     path('customer/', customer.index),
+    path('customer/goods/', customer.goods),
 
 
 
