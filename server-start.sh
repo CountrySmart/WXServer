@@ -4,5 +4,4 @@
 #python3 manage.py runserver 127.0.0.1:8081
 
 # uwsgi3
-git pull origin master
 uwsgi3 --reload uwsgi.pid
