@@ -29,8 +29,7 @@ urlpatterns = [
 
 
 
-    path('customer/', customer.index),
-    path('customer/goods/', customer.goods),
+    path('customer/getIndexNavSectionData/', customer.getIndexNavSectionData),
 
 
 
