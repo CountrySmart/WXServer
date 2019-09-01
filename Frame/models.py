@@ -3,6 +3,15 @@ from django.db import models
 from django.db import models
 
 
+class BannerData(models.Model):
+    url = models.CharField(max_length=1024, null=False)
+
+
+class IndexNavData(models.Model):
+    icon = models.CharField(max_length=1024, null=False)
+    title = models.CharField(max_length=1024, null=False)
+
+
 #
 class Companys(models.Model):
     addr = models.CharField(max_length=1024, null=False)
@@ -32,10 +41,12 @@ class userData(models.Model):
 # 首页对应标签数据项
 class IndexNavSectionData(models.Model):
     company_id = models.CharField(max_length=32, null=False)
+    banner = models.CharField(max_length=2048, null=False)
+    index_nav = models.CharField(max_length=2048, null=False)
     subject = models.CharField(max_length=128, null=False)
-    coverpath = models.CharField(max_length=1024, null=False)
+    cover_path = models.CharField(max_length=1024, null=False)
     price = models.CharField(max_length=32, null=False)
     message = models.CharField(max_length=1024, null=True, default="")
-    artype = models.CharField(max_length=128, null=False)
+    ar_type = models.CharField(max_length=128, null=False)
     skilled_id = models.CharField(max_length=128, null=False)
     is_sale = models.BooleanField(default=True)
