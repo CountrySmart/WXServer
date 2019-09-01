@@ -9,6 +9,46 @@ import os
 import configparser
 
 
+def getBannerData(request):
+    res = json.dumps(
+        ['../../images/banner_01.png', '../../images/banner_02.png', '../../images/banner_03.png',
+         '../../images/banner_04.png']
+    )
+    return HttpResponse(res)
+
+
+def getIndexNavData(request):
+    res = json.dumps(
+        [{
+            "id": 1,
+            "icon": "../../images/nav_icon_01.png",
+            "title": "推荐"
+        },
+            {
+                "id": 2,
+                "icon": "../../images/nav_icon_02.png",
+                "title": "美甲"
+            },
+            {
+                "id": 3,
+                "icon": "../../images/nav_icon_03.png",
+                "title": "美容"
+            },
+            {
+                "id": 4,
+                "icon": "../../images/nav_icon_04.png",
+                "title": "美发"
+            },
+            {
+                "id": 5,
+                "icon": "../../images/nav_icon_05.png",
+                "title": "美睫"
+            }
+        ]
+    )
+    return HttpResponse(res)
+
+
 def getIndexNavSectionData(request):
     res = json.dumps(
         [
@@ -96,25 +136,3 @@ def getIndexNavSectionData(request):
         ]
     )
     return HttpResponse(res)
-
-
-def goods(request):
-    return render(request, "customer-goods.html")
-
-
-def goods_order(request):
-    return redirect('/customer/goods')
-
-
-def goods_order_cancel(request):
-    return redirect('/customer/goods')
-
-
-def goods_buy(request):
-    return redirect('/customer/goods')
-
-
-def goods_buy_cancel(request):
-    return redirect('/customer/goods')
-
-

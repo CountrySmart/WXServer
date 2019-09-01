@@ -1,434 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1a95bf8-06f9-48dd-a059-e03cb11a2648" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Frame/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Frame/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/badge.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/badge.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/booking-system.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/booking-system.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/button.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/button.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/calendar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/calendar.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/card.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/card.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/carousel.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/carousel.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/chart.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/chart.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/chat.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/chat.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/compose-email.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/compose-email.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/data-table.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/data-table.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/datamap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/datamap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/favourite_menu.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/favourite_menu.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/flot-chart.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/flot-chart.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/fonts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/fonts.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/form.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/forms.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/forms.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/global.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/global.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/gmap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/gmap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/header.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/header.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/home.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/invoice-edit.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/invoice-edit.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/invoice.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/invoice.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/barRating/barRating.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/calendar/fullcalendar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/calendar2/pignose.calendar.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/calendar2/semantic.ui.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/data-table/buttons.bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/data-table/buttons.dataTables.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/data-table/dataTables.bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/jquery-ui.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/jsgrid/jsgrid-theme.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/jsgrid/jsgrid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/lobi-panel/lobipanel.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/mmc-chat.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/nestable/nestable.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/owl.carousel.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/owl.theme.default.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/rangSlider/ion.rangeSlider.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/rangSlider/ion.rangeSlider.skinFlat.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/rangSlider/ion.rangeSlider.skinHTML5.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/rangSlider/ion.rangeSlider.skinModern.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/rangSlider/ion.rangeSlider.skinNice.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/rangSlider/ion.rangeSlider.skinSimple.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/rangSlider/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/scrollable/scrollable.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/sidebar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/simdahs.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/sweetalert/sweetalert.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/themify-icons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/toastr/toastr.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/vector-map/jqvmap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/lib/weather-icons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/login.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/login.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/menu-upload.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/menu-upload.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/modal.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/modal.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/morris-chart.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/morris-chart.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/my.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/nestable.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/nestable.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/order-list.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/order-list.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/order-progress.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/order-progress.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/panel.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/panel.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/products_1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/products_1.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/products_2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/products_2.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/products_3.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/products_3.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/profile.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/profile.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/progress-bar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/progress-bar.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/recent-comments.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/recent-comments.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/recent-message.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/recent-message.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/scrollable.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/scrollable.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/style.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/tab.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/tab.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/table.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/table.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/timeline.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/timeline.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/todo-list.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/todo-list.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/ui-element-basic.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/ui-element-basic.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/variable.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/variable.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/vector-map.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/vector-map.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/weather.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/weather.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/widget-stat.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/widget-stat.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/MontserratLight.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/MontserratLight.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/MontserratLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/MontserratLight.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/MontserratLight.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont_files/viewsource.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/themify.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/themify.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/themify.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/themify.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/weathericons-regular-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/weathericons-regular-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/weathericons-regular-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/weathericons-regular-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/weathericons-regular-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/WechatIMG36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/avatar/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/avatar/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/avatar/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/avatar/usa-flag.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/bookingSystem/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/bookingSystem/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/bookingSystem/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/bookingSystem/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/bookingSystem/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/bookingSystem/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/bookingSystem/7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/bookingSystem/8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/chat-person-add.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/fjords.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/hand.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/lights.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/logo-big.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/logo-small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/maximize.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/minimize.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/nature.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/newyork.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/paris.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/paypal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/picture.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/preview1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/product_1/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/product_1/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/product_1/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/product_1/burger.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/product_1/download.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/product_1/image-10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/product_1/image-8-226x223 - Copy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/product_1/image-8-226x223.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/product_1/image-9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/product_1/images.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/product_1/pizza2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/rangeSliderimg/sprite-skin-flat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/rangeSliderimg/sprite-skin-modern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/rangeSliderimg/sprite-skin-nice.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/rangeSliderimg/sprite-skin-simple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/sanfran.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/scrollable/view-1-1200x800.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/smile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/user-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/user-profile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/user.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/video-cam.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/BASE.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/barRating/barRating.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/barRating/jquery.barrating.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/calendar-2/moment.latest.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/calendar-2/pignose.calendar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/calendar-2/pignose.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/calendar-2/prism.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/calendar-2/semantic.ui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/calendar/fullcalendar-init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/calendar/fullcalendar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/chart-js/Chart.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/chart-js/chartjs-init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/chat-widget/chat-widget-init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/data-table/buttons.colVis.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/data-table/buttons.flash.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/data-table/buttons.html5.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/data-table/buttons.print.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/data-table/dataTables.buttons.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/data-table/datatables-init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/data-table/datatables.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/data-table/jquery-1.12.4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/data-table/jquery.dataTables.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/data-table/jszip.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/data-table/pdfmake.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/data-table/vfs_fonts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/datamap/d3.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/datamap/datamap-init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/datamap/datamaps.world.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/datamap/topojson.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/flot-chart/curvedLines.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/flot-chart/excanvas.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/flot-chart/flot-chart-init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/flot-chart/flot-tooltip/jquery.flot.tooltip.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/flot-chart/jquery.flot.categories.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/flot-chart/jquery.flot.crosshair.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/flot-chart/jquery.flot.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/flot-chart/jquery.flot.pie.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/flot-chart/jquery.flot.resize.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/flot-chart/jquery.flot.stack.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/flot-chart/jquery.flot.threshold.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/flot-chart/jquery.flot.time.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/flowtype.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/gmap/gmap.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/gmap/gmapApi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/gmap/gmaps.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/invoice-edit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/jquery-ui/jquery-ui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/jquery-ui/jquery.ui.touch-punch.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/jquery.nanoscroller.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/jsgrid/db.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/jsgrid/fields/jsgrid.field.checkbox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/jsgrid/fields/jsgrid.field.control.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/jsgrid/fields/jsgrid.field.number.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/jsgrid/fields/jsgrid.field.select.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/jsgrid/fields/jsgrid.field.text.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/jsgrid/fields/jsgrid.field.textarea.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/jsgrid/jsgrid-init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/jsgrid/jsgrid.core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/jsgrid/jsgrid.field.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/jsgrid/jsgrid.load-indicator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/jsgrid/jsgrid.load-strategies.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/jsgrid/jsgrid.sort-strategies.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/jsgrid/jsgrid.validation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/knob/jquery.knob.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/knob/knob.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/lobi-panel/lobipanel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/mmc-chat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/mmc-common.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/moment/moment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/morris-chart/morris-init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/morris-chart/morris.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/nestable/jquery.nestable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/nestable/nestable.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/owl-carousel/owl.carousel-init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/owl-carousel/owl.carousel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/peitychart/jquery.peity.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/peitychart/peitychart.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/rangeSlider/ion.rangeSlider.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/rangeSlider/moment-with-locales.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/rangeSlider/moment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/rangeSlider/rangeslider.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/rating1/jRate.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/rating1/jRate.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/scrollable/holder.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/scrollable/jquery-asScrollable.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/scrollable/jquery-asScrollbar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/scrollable/scrollable.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/sidebar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/sparklinechart/jquery.sparkline.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/sparklinechart/sparkline.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/sweetalert/sweetalert.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/sweetalert/sweetalert.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/toastr/toastr.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/toastr/toastr.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/vector-map/country/jquery.vmap.algeria.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/vector-map/country/jquery.vmap.argentina.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/vector-map/country/jquery.vmap.brazil.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/vector-map/country/jquery.vmap.europe.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/vector-map/country/jquery.vmap.france.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/vector-map/country/jquery.vmap.germany.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/vector-map/country/jquery.vmap.greece.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/vector-map/country/jquery.vmap.iran.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/vector-map/country/jquery.vmap.iraq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/vector-map/country/jquery.vmap.russia.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/vector-map/country/jquery.vmap.tunisia.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/vector-map/country/jquery.vmap.turkey.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/vector-map/country/jquery.vmap.usa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/vector-map/country/jquery.vmap.world.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/vector-map/jquery.vmap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/vector-map/jquery.vmap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/vector-map/jquery.vmap.sampledata.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/vector-map/vector.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/weather/jquery.simpleWeather.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/lib/weather/weather-init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/store.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/badge.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/booking-system.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/button.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/calendar.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/card.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/carousel.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/chart.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/chat.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/compose-email.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/data-table.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/datamap.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/favourite_menu.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/flot-chart.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/fonts.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/forms.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/global.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/gmap.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/header.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/invoice-edit.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/invoice.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/login.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/menu-upload.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/modal.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/morris-chart.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/nestable.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/order-list.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/order-progress.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/panel.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/products_1.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/products_2.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/products_3.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/profile.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/progress-bar.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/recent-comments.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/recent-message.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/scrollable.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/style.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/tab.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/table.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/timeline.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/todo-list.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/ui-element-basic.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/variable.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/vector-map.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/weather.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/less/widget-stat.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/badge.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/booking-system.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/button.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/calendar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/card.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/carousel.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/chart.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/chat.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/compose-email.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/data-table.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/datamap.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/favourite_menu.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/flot-chart.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/fonts.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/global.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/gmap.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/header.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/invoice-edit.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/invoice.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/login.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/menu-upload.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/modal.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/morris-chart.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/nestable.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/order-list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/order-progress.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/panel.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/products_1.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/products_2.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/products_3.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/profile.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/progress-bar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/recent-comments.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/recent-message.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/scrollable.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/tab.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/table.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/timeline.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/todo-list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/ui-element-basic.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/variable.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/vector-map.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/weather.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sass/widget-stat.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/BASE.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/copy_it.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/customer-goods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/customer-index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/staff-index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/storeManager-Staff.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/storeManager-VIP.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/storeManager-goods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/storeManager-index.html" beforeDir="false" />
-    </list>
+    <list default="true" id="d1a95bf8-06f9-48dd-a059-e03cb11a2648" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -513,17 +86,29 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WXServer/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="18" column="53" lean-forward="true" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+            <state relative-caret-position="245">
+              <caret line="31" column="41" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="customer.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WXServer/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="47" column="50" lean-forward="true" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customer.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/meiye/views/customer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+            <state relative-caret-position="165">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#59#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -540,11 +125,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Frame/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+            <state relative-caret-position="335">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -566,6 +151,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>content-wrap</find>
+      <find>subject</find>
+      <find>artype</find>
+      <find>coverpath</find>
+      <find>price</find>
+      <find>message</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -580,7 +170,6 @@
         <option value="$PROJECT_DIR$/server-start.sh" />
         <option value="/usr/local/lib/python3.7/site-packages/django/core/checks/urls.py" />
         <option value="$PROJECT_DIR$/uwsgi.ini" />
-        <option value="$PROJECT_DIR$/WXServer/settings.py" />
         <option value="$PROJECT_DIR$/Frame/views.py" />
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/templates/copy_it.html" />
@@ -589,11 +178,12 @@
         <option value="$PROJECT_DIR$/templates/storeManager-addStaff.html" />
         <option value="$PROJECT_DIR$/templates/storeManager-goods.html" />
         <option value="$PROJECT_DIR$/meiye/views/storeManager.py" />
-        <option value="$PROJECT_DIR$/WXServer/urls.py" />
-        <option value="$PROJECT_DIR$/meiye/views/customer.py" />
         <option value="$PROJECT_DIR$/templates/customer-goods.html" />
         <option value="$PROJECT_DIR$/WXServer.mmd" />
         <option value="$PROJECT_DIR$/Frame/models.py" />
+        <option value="$PROJECT_DIR$/meiye/views/customer.py" />
+        <option value="$PROJECT_DIR$/WXServer/urls.py" />
+        <option value="$PROJECT_DIR$/WXServer/settings.py" />
       </list>
     </option>
   </component>
@@ -630,7 +220,18 @@
             <path>
               <item name="WXServer" type="b2602c69:ProjectViewProjectNode" />
               <item name="WXServer" type="462c0819:PsiDirectoryNode" />
-              <item name="Frame" type="462c0819:PsiDirectoryNode" />
+              <item name="meiye" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WXServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WXServer" type="462c0819:PsiDirectoryNode" />
+              <item name="meiye" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WXServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WXServer" type="462c0819:PsiDirectoryNode" />
+              <item name="WXServer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -715,7 +316,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="28" width="952" height="851" extended-state="6" />
+    <frame x="0" y="28" width="956" height="858" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -724,8 +325,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32970297" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33664772" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1984479" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33333334" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29580575" />
       <window_info anchor="right" id="R Packages" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="5" />
@@ -830,6 +431,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
           <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -979,13 +583,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WXServer/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="44" column="52" selection-start-line="44" selection-start-column="52" selection-end-line="44" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/meiye/views/staff.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -1000,10 +597,13 @@
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="com.igormaznitsa.ideamindmap.editor.MindMapDocumentEditor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/WXServer/urls.py">
+    <entry file="file://$PROJECT_DIR$/Frame/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="18" column="53" lean-forward="true" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+        <state relative-caret-position="335">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1017,19 +617,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/meiye/views/customer.py">
+    <entry file="file://$PROJECT_DIR$/WXServer/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        <state relative-caret-position="245">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Frame/models.py">
+    <entry file="file://$PROJECT_DIR$/WXServer/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+        <state relative-caret-position="705">
+          <caret line="47" column="50" lean-forward="true" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiye/views/customer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="26" />
           <folding>
-            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#0#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
