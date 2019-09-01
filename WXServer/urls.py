@@ -29,6 +29,8 @@ urlpatterns = [
 
 
 
+    path('customer/getBannerData/', customer.getBannerData),
+    path('customer/getIndexNavData/', customer.getIndexNavData),
     path('customer/getIndexNavSectionData/', customer.getIndexNavSectionData),
 
 
